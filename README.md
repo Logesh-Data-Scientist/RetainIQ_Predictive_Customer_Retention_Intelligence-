@@ -43,6 +43,7 @@ Over recent years, telecom providers have experienced increasing customer attrit
 The objective of this project is to transform historical customer data into actionable business intelligence by identifying customers at risk of churn, understanding the reasons behind churn, and supporting proactive retention strategies.
 
 Business Problems
+
 1. Customer Churn
 
 The organization experiences increasing customer attrition but lacks the ability to identify customers likely to leave before cancellation.
@@ -62,6 +63,7 @@ Which customers are most likely to churn?
 What factors influence customer churn?
 Can churn be predicted before cancellation?
 Which actions are most effective for customer retention?
+
 2. Customer Experience
 
 The organization has observed increasing customer complaints but lacks analytical evidence linking customer experience to churn.
@@ -76,6 +78,7 @@ Business Questions
 Which customer experience factors contribute most to churn?
 Are support interactions associated with cancellations?
 How does customer satisfaction vary across different customer segments?
+
 3. Revenue Growth
 
 Despite acquiring new customers, revenue growth has slowed due to increasing customer attrition.
@@ -85,6 +88,7 @@ Which customer segments generate the highest business value?
 Which segments are at the highest risk of churn?
 How much revenue can be protected through effective retention strategies?
 What is the expected return on investment of churn prevention initiatives?
+
 4. Competitive Market
 
 Customers can easily migrate to competitors offering lower prices or promotional benefits.
@@ -93,6 +97,7 @@ Business Questions
 Does pricing significantly influence churn?
 Which customer groups are most sensitive to competitive offers?
 Can loyalty programs improve long-term retention?
+
 5. Customer Insights
 
 The company possesses large volumes of customer information but lacks predictive analytics capabilities.
@@ -106,6 +111,7 @@ Business Questions
 What patterns exist among customers who churn?
 Which variables have the strongest influence on churn?
 Can hidden customer segments be discovered?
+
 6. Operational Challenges
 
 Customer retention activities are largely manual and inefficient.
@@ -119,6 +125,7 @@ Business Questions
 Which customers should receive retention offers?
 How should customers be prioritized?
 How can retention spending be optimized?
+
 7. Decision Support
 
 Business leaders require faster access to analytical insights for strategic decision-making.
